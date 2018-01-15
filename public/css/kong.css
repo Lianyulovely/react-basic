@@ -1,0 +1,24 @@
+.panel{min-height: 90vh;}
+.opr-td>a{margin-right:5px;}
+.form-box{width:600px;margin:0 auto;padding-bottom: 0px;}
+.oauth-box{width:1000px;margin:0 auto;padding-bottom: 60px;}
+.mark{margin:15px 50px;border-bottom:#ddd solid 1px;padding: 15px;line-height: 26px;}
+
+.fr{float: right;width: auto}
+.center{text-align: center;}
+.submit-btn{margin:30px 0;overflow: hidden;}
+
+.returnBack{margin-right: 10px;color:#fff;font-size: 30px}
+.returnBack:hover{color: #fff}
+
+form{overflow: hidden;}
+
+.divide-line{border-bottom: #39b2a9 solid 2px;
+    color:#39b2a9;
+    font-weight: bold;
+    font-size:16px;
+    padding: 15px 0;
+    margin: 20px 0;}
+
+.config-box{padding-top: 60px}
+.noList{font-size: 18px;text-align: center;padding: 40px;}

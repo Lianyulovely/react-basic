@@ -1,0 +1,74 @@
+
+.pageForm{display: inline-block;}
+.pageJump{margin-left: 10px;height: 30px}
+
+.printBtn{margin-left: 10px;height: 30px;color:#fff;background: orange;border-color:orange;}
+.printBtn:active{color:#fff;}
+.printBtn:hover{color:#fff;background: orange;border-color:orange;}
+
+.pageInput{width: 60px;height: 30px}
+
+.pageInfo{text-align: right; margin-right: 15px;}
+.pageBtn{float: left;margin-left: 15px;margin-top: 3px;
+    margin-bottom: 15px;}
+ .pageBtn li{
+        float: left;
+    margin: 0 1px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    }
+ .pageBtn li.disabled a{ color: #c7c7c7;}
+ .pageBtn li a {
+    color: #797979;
+    padding: 5px 10px;
+    display: inline-block;
+}
+.slider{margin-top:12px;}
+.ui-slider-horizontal .ui-slider-handle{top: -0.3em !important;}
+.bound-s{display: inline-block;margin-right: 10px}
+.inbox-head  .sr-input{border-radius: 4px;display: inline-block;width: 150px;margin-left: 20px}
+
+#loginBox{width: 350px;margin:100px auto;background: #fff;border-radius: 4px;}
+
+#linesDom{padding:15px;}
+
+input[type="file"].hidden-input{display: none;}
+.url-td{
+    max-width: 200px;
+    word-break: break-all;
+}
+/* 返回 */
+.return-title i{margin-right: 5px;font-size: 18px;}
+.return-title a{font-size: 14px;color: #41BBA4;}
+.return-title span{border-left: #ddd solid 2px;padding: 0 15px;margin-left: 15px;}
+
+.h5-title{
+    display: inline-block;
+    border-left: 2px solid #41cac0;
+    font-weight: 700;
+    color: #41cac0;
+    text-indent: 8px;
+    font-size: 16px;
+    margin-bottom: 8px;
+    }
+.heading-left{display: inline-block;color:#fff;text-align: center;font-size:12px;}
+.heading-left .add-icon{display:inline-block;border-radius:4px;color:#fff;padding: 3px 6px;background: #41cac0;margin-left: 10px;cursor: pointer;}
+.heading-left .delAll-btn{display:inline-block;border-radius:4px;padding: 3px 6px;background: #41cac0;margin-left: 10px;cursor: pointer;}
+
+
+.heading-right{float: right;}
+.heading-right input,.heading-right select{
+    display: inline-block;
+    font-size: 12px;
+    padding: 3px;
+    width: 110px;
+    margin-right: 10px;
+    height: 27px;
+}
+.heading-right button{padding:2px 6px;background: #41cac0;color: #fff;vertical-align: baseline;}
+.excel{height: 27px;}
+.pb0{padding-bottom: 0}
+
+.errorTip{color: orange;margin-bottom: 15px;}
+.errorTip i{margin-right: 15px;}
