@@ -1,0 +1,10 @@
+.warnTip{color: #e4ba00;float: left;margin-top: 10px;display: none;}
+.warnTip.active{display: inline-block;}
+.my-alert{   
+     position: fixed;
+    top: 0px;
+    right: 15px;
+    width: 250px;
+    z-index:1300;
+}
+.alert-text{padding: 10px 0}
